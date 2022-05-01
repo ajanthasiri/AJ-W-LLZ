@@ -4,7 +4,7 @@ export default function navbar() {
   return (
     <div>
         <aside class=" w-52" aria-label="Sidebar">
-            <div class=" h-full overflow-y-auto py-4 px-3 bg-gray-700 rounded dark:bg-gray-800 opacity-70">
+            <div class=" h-full overflow-y-auto py-4 px-3 bg-gray-900 rounded dark:bg-gray-800 opacity-70">
                 <button class="flex items-center pl-2.5 mb-5">
                     <img src="assets/img/logo5.png" class="mr-3 sm:h-7" alt="Flowbite Logo" style={{height:'140px',width:'auto'}}/>
                 </button>
